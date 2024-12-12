@@ -1,0 +1,80 @@
+HealHub.css
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+
+}
+
+header {
+  background-color: #de2424;
+  color: white;
+  padding: 1rem 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.hero {
+  background: #f3f3f3;
+  padding: 3rem 0;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero .btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+.services-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.service {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  width: 30%;
+}
+
+
+
+
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
